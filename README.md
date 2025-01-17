@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a beginner project
 - 📫 How to reach me @ferdiansyahdimas83@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have strong intuition
+- ⚡ Fun fact: I'm new in coding
 
 <!---
 Charlotte-moon/Charlotte-moon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
